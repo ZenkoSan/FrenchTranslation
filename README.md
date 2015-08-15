@@ -1,7 +1,7 @@
 # FrenchTranslation
 Tree of Savior English to French Translation OTC 
 
-Instructions
+### Instructions
 
 MERCI DE PRENDRE CONNAISSANCE DES INSTRUCTIONS AVANT D'ENVOYER VOS REQUÊTES.
 
@@ -17,7 +17,7 @@ Vous pouvez aussi créer de nouveaux débats pour discuter de la traduction avec
 
 Astuce: Les traductions doivent être aussi courtes que possible pour s'intégrer à l'UI (interface utilisateur) du jeu.
 
-Intellectual Property Rights Ownership
+### Intellectual Property Rights Ownership
 
 Please be aware that the Intellectual Property Rights of the following, including, but not limited to, belong to IMC Games Co., Ltd: The names of any characters, NPCs, places, scenes, things, events, short phrases, short sayings and the likes that are set forth in Tree of Savior, as well as any translations or contributions from our contributors.
 
