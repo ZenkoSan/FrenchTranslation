@@ -13,7 +13,7 @@ Ce répertoire est dédié à la traduction des textes du jeu Tree of Savior de 
 
 Nous accueillerons votre contribution sous la forme de requête (pull requests).
 
-En prévention de situations où plusieurs personnes voudrait traduire les mêmes lignes, veuillez commenter et indiquer les lignes sur lesquelles vous allez travailler dans le sujet "Lignes en attente de traduction" présent dans le menu "Issues" ainsi les autres contributeurs pourront passer ces lignes.
+En prévention de situations où plusieurs personnes voudrait traduire les mêmes lignes, veuillez commenter et indiquer les lignes sur lesquelles vous allez travailler dans le sujet "Lignes en cours de traduction" présent dans le menu "Issues" ainsi les autres contributeurs pourront passer ces lignes.
 
 Vous pouvez aussi créer de nouveaux débats pour discuter de la traduction avec d'autres traducteurs. Veuillez noter que tout débat n'étant pas en rapport avec la traduction peut-être supprimé sans préavis.
 
