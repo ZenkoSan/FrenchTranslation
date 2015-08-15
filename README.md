@@ -3,7 +3,7 @@ Tree of Savior English to French Translation OTC
 
 ### Instructions
 
-MERCI DE PRENDRE CONNAISSANCE DES INSTRUCTIONS AVANT D'ENVOYER VOS REQUÊTES.
+MERCI DE PRENDRE CONNAISSANCE DES [INSTRUCTIONS](https://github.com/ZenkoSan/FrenchTranslation/wiki/INSTRUCTIONS) AVANT D'ENVOYER VOS REQUÊTES.
 
 ***
 
