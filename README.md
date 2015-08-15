@@ -1,50 +1,21 @@
 # FrenchTranslation
 Tree of Savior English to French Translation OTC 
 
-Guidelines
+Instructions
 
-PLEASE CHECK THE GUIDELINES BEFORE SENDING YOUR PULL REQUESTS.
+MERCI DE PRENDRE CONNAISSANCE DES INSTRUCTIONS AVANT D'ENVOYER VOS REQUÊTES.
 
-YOU MAY CHECK THE ISSUES FOR INSTRUCTIONS ON HOW TO ENABLE REAL TIME TRANSLATION
+Bienvenue sur le répertoire de traduction française de Tree of Savior.
 
-    Files have been updated to match the current CBT version. (NEW)
+Ce répertoire est dédié à la traduction des textes du jeu Tree of Savior de la version Anglaise vers la version Française. Notre but est de commencer la traduction française à partir des fichiers déjà traduits correctement en anglais de manière à gagner du temps lorsque IMCgames lancera la traduction officielle dans notre langue.
 
-    Have you checked out our official Forums? Click HERE move to the forums for discussion. Please login and click on the github icon to link your github account to it as well.
+Nous accueillerons votre contribution sous la forme de requête (pull requests).
 
-    Please use the latest file version before editing the translations :)
+En prévention de situations où plusieurs personnes voudrait traduire les mêmes lignes, veuillez commenter et indiquer les lignes sur lesquelles vous allez travailler dans le sujet "Lignes en attente de traduction" présent dans le menu "Issues" ainsi les autres contributeurs pourront passer ces lignes.
 
-    Scroll down for a preview of how real-time translation works in game!
+Vous pouvez aussi créer de nouveaux débats pour discuter de la traduction avec d'autres traducteurs. Veuillez noter que tout débat n'étant pas en rapport avec la traduction peut-être supprimé sans préavis.
 
-    Be sure to take a look at the Wiki page for guides and reminders before sending us your translations.
-
-Tree of Savior Open Text Client (OTC)
-
-Welcome to the Tree of Savior OTC Github Repository.
-
-This repository is dedicated to translating Tree of Savior game texts from Korean to English. Our goal is to complete the English translations first so that it can be used to translate the game to other non-English languages.
-
-We hope our disclosing of game texts and opening this repository will pave a quicker way for our non-English speaking fans to enjoy the game in their native languages in the future.
-
-You can read about our plans for the international version of Tree of Savior in our Dev Blog
-Real-Time Translation
-
-Here's a sneak preview of how real-time translation would function in game. (may be subject to changes)
-
-Use Ctrl+Shft+Mouse Click on text to edit real time
-Contributions
-
-We welcome your contributions in form of pull requests.
-
-To prevent the situation where many people would translate the same lines, please comment and indicate which lines you'd be contributing to in the "Lines for Translation" issue found in the 'Issues' menu so that others would skip those lines.
-
-You may also create new issues to discuss the translations with other translators. Please note that issues not related to translation may be deleted without notice.
-
-Don't know Korean but still want to contribute?
-
-You can still contribute by editing translation errors :)
-
-Tip: The translations should be kept as short as possible to fit in game UI.
-Game Screenshots
+Astuce: Les traductions doivent être aussi courtes que possible pour s'intégrer à l'UI (interface utilisateur) du jeu.
 
 Intellectual Property Rights Ownership
 
