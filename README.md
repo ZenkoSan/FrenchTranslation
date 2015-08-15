@@ -5,6 +5,8 @@ Tree of Savior English to French Translation OTC
 
 MERCI DE PRENDRE CONNAISSANCE DES INSTRUCTIONS AVANT D'ENVOYER VOS REQUÊTES.
 
+***
+
 Bienvenue sur le répertoire de traduction française de Tree of Savior.
 
 Ce répertoire est dédié à la traduction des textes du jeu Tree of Savior de la version Anglaise vers la version Française. Notre but est de commencer la traduction française à partir des fichiers déjà traduits correctement en anglais de manière à gagner du temps lorsque IMCgames lancera la traduction officielle dans notre langue.
@@ -16,6 +18,8 @@ En prévention de situations où plusieurs personnes voudrait traduire les même
 Vous pouvez aussi créer de nouveaux débats pour discuter de la traduction avec d'autres traducteurs. Veuillez noter que tout débat n'étant pas en rapport avec la traduction peut-être supprimé sans préavis.
 
 Astuce: Les traductions doivent être aussi courtes que possible pour s'intégrer à l'UI (interface utilisateur) du jeu.
+
+***
 
 ### Intellectual Property Rights Ownership
 
